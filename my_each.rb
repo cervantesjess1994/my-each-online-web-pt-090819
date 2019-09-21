@@ -1,4 +1,5 @@
-def my_each(collection) do |i|
+def my_each(collection) 
+  my_each.collect do |i|
   puts i
 end
 
