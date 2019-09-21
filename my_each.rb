@@ -1,8 +1,3 @@
-def my_each(collection)
-  my_each.each do |i|
-  puts i
-end
-
 def my_each(array)
   i = 0
 
